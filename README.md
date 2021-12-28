@@ -1,2 +1,2 @@
-# pro-c34
-this game is about a  super hero who is trying to kill a monster.
+# Project-C34-KillTheMonster
+Capstone Class (24.12.2021) next day Christmas 
